@@ -1,6 +1,6 @@
 ## Problem: Prediction of adenosine to inosine RNA editing sites using nucleotide compositions
 
-## [To know the Details Summary of the whole work,Please read the](https://github.com/tanvirehsan/prediction-of-atoi-rna-editing-sites/blob/master/Work_Summary.pdf)  
+## [To know the Details Summary of the whole work,Please read Work_Summary.pdf](https://github.com/tanvirehsan/prediction-of-atoi-rna-editing-sites/blob/master/Work_Summary.pdf)  
 
 ### There are two fantastic blog for Loading Data into blog.
 
