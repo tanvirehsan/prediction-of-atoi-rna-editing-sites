@@ -2,7 +2,7 @@
 
 ## [scikit-learn](https://scikit-learn.org/)  used for machine learning
 
-## [To know the Details Summary of the whole work,Please read Work_Summary.pdf](https://github.com/tanvirehsan/prediction-of-atoi-rna-editing-sites/blob/master/Work_Summary.pdf)  
+## To know the Details Summary of the whole work,Please read [Work_Summary.pdf](https://github.com/tanvirehsan/prediction-of-atoi-rna-editing-sites/blob/master/Work_Summary.pdf)  
 
 ### There are two fantastic blog for Loading Data into blog.
 
